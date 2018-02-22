@@ -1,0 +1,14 @@
+{
+  "name": "zoom_scheduler",
+  "version": "1.0.0",
+  "description": "Web Client for Scheduling Zoom Meetings",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayne Graham",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
